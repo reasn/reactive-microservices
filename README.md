@@ -34,6 +34,9 @@ Typing helps enforce purity and idempotence because a lot of JavaScript's magic 
 This tries to go beyond the typical "here's who we did it" by extracting theoretical concepts.
 If done right this allows for fruitful conceptual dicussions. Mut much can go wrong and one easily ends up with something that attempts to be a concept when it actually is just fancy words describing a status quo. Furthermore much more dicussion and feedback is needed before getting even close to be actual recommendations for people out there. So think a lot about the why's, consider completely different situations that might require different solutions and please: share your feedback!
 
+## Prior Art
+* http://www.reactivemanifesto.org
+
 # Building Blocks
 ## Building Block 1: Pure Data
 
