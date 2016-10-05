@@ -1,4 +1,4 @@
-# Rective Microservices
+# Reactive Microservices
 
 ## Preliminary Remarks
 The goal is to create a **high-performance** scalable software architecture while balancing out
