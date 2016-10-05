@@ -1,8 +1,7 @@
 # Asynchronous Microservices
 
 ## Preliminary Remarks
-### Goal
-Create a **high-performance** scalable software architecture while balancing out
+The goal is to create a **high-performance** scalable software architecture while balancing out
 **maintainability** and **conceptual simplicity**.
 
 ### Background
