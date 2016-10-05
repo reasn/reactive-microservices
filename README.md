@@ -2,12 +2,12 @@
 
 ## Preliminary Remarks
 ### Goal
-* Create a high-performance scalable software architecture while balancing out
- * Maintainability
- * Conceptual Simplicity
+Create a **high-performance** scalable software architecture while balancing out
+**maintainability** and **conceptual simplicity**.
 
 ### Background
-* This document is based on the experiences and learnings of a small (8) scrum team. We migrated a monolithic PHP/Postgres application into asynchronous node.js/TypeScript micro services.
+* This document is based on the experiences and learnings of a small yet great scrum team at [StyleLounge](http://jobs.stylelounge.de).
+* We migrated a monolithic PHP/Postgres application into asynchronous node.js/TypeScript microservices.
 * The product is a meta search for fashion that has to deal with a lot of data but has no checkout.
 * The absence of a checkout greatly simplifies data flow.
 * Arguably a traditional e-commerce application would require more resources (people and experience with microservices) to do true microservices from day one
